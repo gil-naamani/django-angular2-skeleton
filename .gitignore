@@ -1,0 +1,8 @@
+# database
+db.sqlite3
+
+# manage command
+manage.py
+
+# compiled code
+*.pyc
